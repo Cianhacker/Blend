@@ -1,0 +1,8 @@
+{
+  "name": "SchoolTime!",
+  "description": "An immersive 3D school life simulator featuring 12 interactive floors, AI-driven character personalities, dynamic school events, mobile joystick & tactile buttons, quests, and full character customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
